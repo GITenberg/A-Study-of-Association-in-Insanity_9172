@@ -1,0 +1,29 @@
+_repo: A-Study-of-Association-in-Insanity_9172
+creator:
+  authors:
+  - agent_name: Rosanoff, A. J. (Aaron Joshua)
+    alias: Rosanoff, Aaron Joshua
+    birthdate: 1878
+    gutenberg_agent_id: '3528'
+    url: http://www.gutenberg.org/2009/agents/3528
+  - agent_name: Kent, Grace Helen
+    alias: Kent, G. H. (Grace Helen)
+    birthdate: 1875
+    gutenberg_agent_id: '2989'
+    url: http://www.gutenberg.org/2009/agents/2989
+description: ''
+gutenberg_bookshelf: Psychology
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychology, Pathological'
+- !lcc 'RC'
+- !lcsh 'Association of ideas'
+title: A Study of Association in Insanity
+url: http://www.gutenberg.org/ebooks/9172
