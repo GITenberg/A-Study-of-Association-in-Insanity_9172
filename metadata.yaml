@@ -1,4 +1,8 @@
 _repo: A-Study-of-Association-in-Insanity_9172
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Rosanoff, A. J. (Aaron Joshua)
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '2989'
     url: http://www.gutenberg.org/2009/agents/2989
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9172#A-Study-of-Association-in-Insanity
 gutenberg_bookshelf: Psychology
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
